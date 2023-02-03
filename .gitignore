@@ -1,0 +1,4 @@
+node_modules
+.vscode
+jest-reports
+test-results.json

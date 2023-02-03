@@ -1,0 +1,23 @@
+on:
+  push:
+    branches:
+    - main
+    - 'test/**'
+    - 'feature/**'
+
+jobs:
+  run-ci:
+    runs-on: ubuntu-latest # macos-latest # or windows-latest
+
+    steps:
+      - uses: actions/checkout@v2 # download code to github actions machine
+
+      - uses: actions/setup-node@v2 # setup nodejs
+        with:
+         node-version: '16'
+
+      - name: Install dependencies # install dependancies
+        run: npm ci
+
+      - name: Run Tests # Run Test
+        run: npm run test
