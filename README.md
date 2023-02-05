@@ -12,7 +12,11 @@ High Level Test Strategy for API is place in docs directory.
 
 *CI* - github actions
 
-Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation](https://https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation)
+Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation]
+
+***Assumptions***
+Data driven testing data is directly passed inside resources directory.
+For Huge data sets we need to read it from an excel and pass it to Jest.
 
 ***Prerequisities****
 

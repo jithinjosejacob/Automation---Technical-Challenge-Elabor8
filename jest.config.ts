@@ -1,7 +1,7 @@
 import type { Config } from "@jest/types"
 
 const config: Config.InitialOptions = {
-  testResultsProcessor: "jest-json-reporter",
+  testResultsProcessor: "",
   preset: "ts-jest",
   testEnvironment: "node",
   verbose: true,
@@ -20,7 +20,7 @@ const config: Config.InitialOptions = {
       {
         publicPath: "./jest-reports",
         pageTitle: "Elabor8 API Tests",
-        filename: "report.html"
+        filename: "index.html"
       }
     ]
   ],
