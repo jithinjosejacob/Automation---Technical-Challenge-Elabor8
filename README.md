@@ -28,7 +28,7 @@ Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace
 
 ***SAMPLE HTML REPORT***
 
-Sample HTML Report - (https://illustrious-buttercream-01571b.netlify.app/)[https://illustrious-buttercream-01571b.netlify.app/]
+Sample HTML Report - [https://illustrious-buttercream-01571b.netlify.app/]
 
 ***DOCS***
 
