@@ -8,6 +8,8 @@ High Level Test Strategy for API is place in docs directory.
 
 *Testing Libraries* - Jest , Pactum
 
+*Test Report* - HTML( jest-html-reporter)
+
 *CI* - github actions
 
 Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation](https://https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation)
@@ -23,6 +25,10 @@ Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace
 2. Install dependancies by using command ```npm ci```
 3. Run tests using command ```npm run test```
 4. Verify the test results from command line/ verify the report generated in jest-reports directory
+
+***SAMPLE HTML REPORT***
+
+Sample HTML Report - (https://illustrious-buttercream-01571b.netlify.app/)[https://illustrious-buttercream-01571b.netlify.app/]
 
 ***DOCS***
 
