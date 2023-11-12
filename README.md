@@ -12,7 +12,7 @@ High Level Test Strategy for API is place in docs directory.
 
 *CI* - github actions
 
-Functional Test Collection -  [https://www.postman.com/jithinjacob2011/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e?ctx=documentation]
+Functional Test Collection -  [https://www.postman.com/jithinjosejacob/workspace/jithin-s-workspace/collection/5627600-2cdc43a6-f184-4ff4-9581-69d89ccc708e]
 
 ***Assumptions***
 Data driven testing data is directly passed inside resources directory.
